@@ -15,3 +15,7 @@
 - CI builds a Docker image tagged with the commit SHA
 - Argo CD (or Helm) automatically syncs the cluster with Git
 - No manual deployment steps → safe, repeatable, and fully traceable.
+
+
+# Screenshot of successfull CI pipline execution
+![App Screenshot](screenshots/Screenshot%202026-02-15%20at%2020.45.20.png)
