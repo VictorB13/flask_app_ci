@@ -61,7 +61,7 @@ HTML_PAGE = """
             <div class="card car-card">
                 <div class="card-body">
                     <h5 class="card-title">Mazda 3</h5>
-                    <p class="card-text">Monthly: ₪2,100</p>
+                    <p class="card-text">Monthly: ₪2000</p>
                     <form method="post">
                         <input type="hidden" name="car" value="Mazda 3">
                         <button class="btn btn-primary w-100">Request Offer</button>
